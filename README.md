@@ -1,11 +1,11 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Raj+Kumar!;" />
+<h1 align='center'>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Raj+Kumar.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 
-<h1 align="center">Hi 👋, I'm Raj Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align='center'>
+  A passionate Frontend Developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
+</h3>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajgupta2399&label=Profile%20views&color=0e75b6&style=flat" alt="rajgupta2399" /> </p>
 
@@ -16,6 +16,8 @@
 - 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **Frontend Development**
+
+- 💻 Portfolio Project **[Raj Kumar - Portfolio](https://rajkumar2399.netlify.app/)**
 
  <hr/>
  
