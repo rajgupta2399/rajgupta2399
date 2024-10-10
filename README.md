@@ -47,4 +47,10 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,nextjs,mysql,express,redux" /><br>
 </div>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajgupta2399&show_icons=true&locale=en&layout=compact" alt="rajgupta2399" /></p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajgupta2399&show_icons=true&locale=en" alt="rajgupta2399" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajgupta2399&show_icons=true&locale=en&layout=compact" alt="rajgupta2399" width="40%" />
+</p>
+
