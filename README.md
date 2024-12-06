@@ -13,7 +13,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajgupta2399" alt="rajgupta2399" /></a> </p>
 
-- 🔭 I’m currently working on **World Hotel Bokking App** using React.js, Redux-Toolkit, Chakra UI, and Material UI <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
+- 🔭 I’m currently working on **MakeMyTrip Clone** using Remix, React.js, Redux-Toolkit, Shadcn UI, and Accertinity UI <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 
 - 🌱 I’m currently learning **MERN Stack**
 
